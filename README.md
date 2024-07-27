@@ -6,6 +6,7 @@
 <h4>Spring Boot</h4>
 <ul>
   <li>Versão 3.2.7</li>
+  <li>Spring Data</li>
 </ul>
 <h4>Banco de Dados</h4>
 <ul>
